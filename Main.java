@@ -8,11 +8,11 @@ public class Main {
     // add animals here
     animals.add(new Cat());
     animals.add(new ExampleAnimal());
+    animals.add(new Pikachu());
     animals.add(new Frog());
     animals.add(new Giraffe());
     animals.add(new Shrew());
     animals.add(new Snake());
-
 
 
     // make some noise!
