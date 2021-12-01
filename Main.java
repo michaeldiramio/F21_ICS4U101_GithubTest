@@ -7,6 +7,7 @@ public class Main {
 
     // add animals here
     animals.add(new Cat());
+    animals.add(new ExampleAnimal());
 
 
 
