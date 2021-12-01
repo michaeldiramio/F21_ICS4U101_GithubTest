@@ -9,6 +9,7 @@ public class Main {
     animals.add(new Cat());
     animals.add(new ExampleAnimal());
     animals.add(new Snake());
+    animals.add(new Bear());
 
 
     // make some noise!
