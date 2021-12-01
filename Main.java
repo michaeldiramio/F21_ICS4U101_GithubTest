@@ -8,8 +8,8 @@ public class Main {
     // add animals here
     animals.add(new Cat());
     animals.add(new ExampleAnimal());
-
-
+    animals.add(new Pikachu());
+    
 
     // make some noise!
     for(Animal a : animals) {
