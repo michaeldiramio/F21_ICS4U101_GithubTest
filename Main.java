@@ -8,6 +8,7 @@ public class Main {
     // add animals here
     animals.add(new Cat());
     animals.add(new ExampleAnimal());
+    animals.add(new Sheep()); //Roebrto's Animal
     animals.add(new Pikachu());
     animals.add(new Frog());
     animals.add(new Giraffe());
@@ -15,10 +16,15 @@ public class Main {
     animals.add(new Snake());
 
 
+
+
+
     // make some noise!
     for(Animal a : animals) {
       a.makeNoise();
     }
+    
+
 
 
     
