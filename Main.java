@@ -8,6 +8,7 @@ public class Main {
     // add animals here
     animals.add(new Cat());
     animals.add(new ExampleAnimal());
+    animals.add(new Sheep()); //Roebrto's Animal
 
 
 
@@ -15,6 +16,8 @@ public class Main {
     for(Animal a : animals) {
       a.makeNoise();
     }
+    
+
 
 
     
