@@ -9,7 +9,11 @@ public class Main {
     animals.add(new Cat());
     animals.add(new ExampleAnimal());
     animals.add(new Pikachu());
-    
+    animals.add(new Frog());
+    animals.add(new Giraffe());
+    animals.add(new Shrew());
+    animals.add(new Snake());
+
 
     // make some noise!
     for(Animal a : animals) {
