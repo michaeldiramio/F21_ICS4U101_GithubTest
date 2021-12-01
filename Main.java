@@ -16,6 +16,7 @@ public class Main {
     animals.add(new Giraffe());
     animals.add(new Shrew());
     animals.add(new Snake());
+    animals.add(new Bear());
 
     // make some noise!
     for(Animal a : animals) {
