@@ -9,6 +9,11 @@ public class Main {
     animals.add(new Cat());
     animals.add(new ExampleAnimal());
     animals.add(new Sheep()); //Roebrto's Animal
+    animals.add(new Frog());
+    animals.add(new Giraffe());
+    animals.add(new Shrew());
+    animals.add(new Snake());
+
 
 
 
