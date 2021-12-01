@@ -8,7 +8,7 @@ public class Main {
     // add animals here
     animals.add(new Cat());
     animals.add(new ExampleAnimal());
-
+    animals.add(new Chinchilla());
 
 
     // make some noise!
@@ -16,6 +16,8 @@ public class Main {
       a.makeNoise();
     }
 
+    //make animals eat
+    animals.get(2).eat();
 
     
   }
